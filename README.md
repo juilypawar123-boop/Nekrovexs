@@ -67,6 +67,14 @@ Programming: C# in Unity
 
 Art & Textures: Mix of custom assets and free/asset store packs
 
+## 🛠 Technologies Used
+
+- **C#**
+- **Unity Software**
+- **Git & GitHub**
+- **Visual Studio 2022**
+- **Responsive UI / UX Design**
+
 **📣 Contact / Support**
 
 Developer: Juily Pawar
